@@ -1,0 +1,2 @@
+shell_message_flag=False
+shell_userid=None
